@@ -1,4 +1,4 @@
-                                                                     F1 DASHBOARD
+                                                        F1 DASHBOARD
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A CLI driven application for all the F1 lovers like me, who wish to get the most significant information about their favorite races from the past seasons
